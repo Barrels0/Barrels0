@@ -11,10 +11,8 @@ Sou um desenvolvedor focado em arquitetura Backend, criação de APIs RESTful de
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barrels0&show_icons=true&theme=radical&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrels0&layout=compact&theme=radical" height="180"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barrels0&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Barrels0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrels0&layout=compact&theme=radical)](https://github.com/Barrels0)
 
 ---
 
@@ -46,7 +44,7 @@ Sou um desenvolvedor focado em arquitetura Backend, criação de APIs RESTful de
   <a href="mailto:nickolas.merola@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/nickolas-dev/)" target="_blank">
+  <a href="https://www.linkedin.com/in/nickolas-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
