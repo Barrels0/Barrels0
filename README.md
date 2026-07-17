@@ -43,10 +43,10 @@ Sou um desenvolvedor focado em arquitetura Backend, criação de APIs RESTful de
 ### 🔗 Conecte-se Comigo
 
 <p align="center">
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:nickolas.merola@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="[https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/nickolas-dev/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
