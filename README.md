@@ -11,8 +11,14 @@ Sou um desenvolvedor focado em arquitetura Backend, criação de APIs RESTful de
 
 ### 📊 Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barrels0&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Barrels0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrels0&layout=compact&theme=radical)](https://github.com/Barrels0)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Barrels0&show_icons=true&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Barrels0&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrels0&layout=compact&theme=radical" width="600"/>
+</p>
 
 ---
 
