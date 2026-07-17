@@ -12,7 +12,7 @@ Sou um desenvolvedor focado em arquitetura Backend, criação de APIs RESTful de
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barrels0&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barrels0&theme=radical" height="180"/>
   <img src="https://streak-stats.demolab.com/?user=Barrels0&theme=radical&hide_border=true" height="180"/>
 </p>
 
